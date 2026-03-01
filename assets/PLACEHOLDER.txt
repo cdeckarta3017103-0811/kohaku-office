@@ -1,0 +1,6 @@
+請將琥珀的 sprite sheet 圖片改名後放在這個資料夾：
+  kohaku.png
+
+其他角色（備用）：
+  kosakura.png  ← 小櫻
+  kokaede.png   ← 小楓
